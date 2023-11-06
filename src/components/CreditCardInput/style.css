@@ -1,0 +1,15 @@
+input {
+    margin: 5px;
+    border: 2px solid rgb(233, 69, 69)
+}
+
+.inputs {
+    display: flex;
+    justify-content: center
+}
+
+.warning{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(233, 69, 69);
+}
